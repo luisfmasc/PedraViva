@@ -5,7 +5,7 @@ in the Southeastern province of Minas Gerais.
 This here is a repo for their surge.sh-hosted landing page. It was created by Gama Academy's TeamUpgrade during
 Gama Experience 17's 'Digital Volunteer's' stage as part of a larger effort to empower the NGO with a digital footprint.
 
-Instituto Pedra Viva saves children from a grim future. It gives them refuge from the hopelesness that surrounds their
+Instituto Pedra Viva saves children from a grim future. It gives them refuge from the hopelessness that surrounds their
 growing up environment.
 
 Find them here https://www.facebook.com/Instituto-Pedra-Viva-466496933420766/ 
