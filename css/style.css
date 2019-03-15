@@ -28,21 +28,27 @@ h1 {
 }
 h2 {
     font-size: 1.5em;
+    font-weight: 700;
     line-height: 1.4;
     text-align: left;
     color: var(--white);
+    text-transform: uppercase;
 }
 p {
+    color: var(--white);
 }
-.tarja p {
-    font-size: 1.25em;
+#tarja p {
+    font-size: 1.1em;
     letter-spacing: normal;
     text-align: left;
     color: var(--brownish-grey);
+    background-color: var(--white);
 }
-.form_campos {
+.form-group input {
     width: 100%;
-    font-size: 1.1em;
     text-align: left;
     color: var(--very-light-pink);
+    border-radius: 0;
+    border: 0px;
+    border-bottom: solid 2px var(--light-olive-green);;
 }
