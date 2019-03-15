@@ -59,3 +59,13 @@ p {
     border: 0px;
     border-bottom: solid 2px var(--light-olive-green);;
 }
+.btn-primary {
+  font-size: 1em;
+  font-weight: 700;
+  line-height: 1.19;
+  color: var(--light-olive-green);
+  padding: 1em;
+  width: 49.4%;
+  text-align: center;
+  background: var(--warm-pink)
+}
