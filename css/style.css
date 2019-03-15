@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700');
+/* Color palette */
+
+:root {
+ --warm-pink: #ea657b;
+ --light-olive-green: #aace46;
+ --brownish-grey: #707070;
+ --very-light-pink: #c3c3c3;
+ --white: #ffffff;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.5;
+}
+.logo {
+    width: 436px;
+    height: 116px;
+    object-fit: contain;
+}
+h1 {
+    font-family: Poppins;
+    font-size: 2em;
+    font-weight: 700;
+    text-align: left;
+    color: var(--light-olive-green);
+}
+h2 {
+    font-size: 1.5em;
+    line-height: 1.4;
+    text-align: left;
+    color: var(--white);
+}
+p {
+}
+.tarja p {
+    font-size: 1.25em;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--brownish-grey);
+}
+.form_campos {
+    width: 100%;
+    font-size: 1.1em;
+    text-align: left;
+    color: var(--very-light-pink);
+}
