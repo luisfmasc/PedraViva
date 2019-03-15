@@ -13,11 +13,14 @@
 body {
     font-family: 'Poppins', sans-serif;
     line-height: 1.5;
+    background-image:url("../images/bg.jpg");
+    background-size: cover;
 }
 .logo {
     width: 436px;
     height: 116px;
     object-fit: contain;
+    margin-top: 7em;
 }
 h1 {
     font-family: Poppins;
@@ -25,6 +28,7 @@ h1 {
     font-weight: 700;
     text-align: left;
     color: var(--light-olive-green);
+    text-transform: uppercase;
 }
 h2 {
     font-size: 1.5em;
@@ -32,10 +36,13 @@ h2 {
     line-height: 1.4;
     text-align: left;
     color: var(--white);
-    text-transform: uppercase;
 }
 p {
     color: var(--white);
+}
+#tarja {
+    background: var(--white);
+    padding-top: 7em;
 }
 #tarja p {
     font-size: 1.1em;
